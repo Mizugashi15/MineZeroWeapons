@@ -1,0 +1,4 @@
+name: MineZeroWeapons
+version: '${version}'
+main: net.minezero.minezeroweapons.MineZeroWeapons
+api-version: '1.20'
